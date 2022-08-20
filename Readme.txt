@@ -1,19 +1,33 @@
-:space_invader: CUSTOMIZACIÓN DE PLANTILLA
+:space_invader: CUSTOMIZACIÓN DE PLANTILLA :space_invader:
 
  EDITANDO:
--Paleta de Color, 
--iconos , 
-.logos, 
--textos . 
--secciones 
--imagnes
--links
--formulario
+:ok_hand:-Paleta de Color, 
+:ok_hand:-iconos , 
+:ok_hand:-logos, 
+:ok_hand:-textos . 
+:ok_hand:-secciones 
+:ok_hand:-imagnes
+:ok_hand:-links
+:ok_hand:-formulario
 
--Hosting
--Dominio (DNS)
+:point_right:-Hosting
+:point_right:-Dominio (DNS)
 
-CSS BOOTSTRAP JS HTML @media Query RESPONSIVE 
+:world_map:CSS BOOTSTRAP JS HTML @media Query RESPONSIVE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Thanks for downloading this template!
 
