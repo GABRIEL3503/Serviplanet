@@ -1,4 +1,4 @@
-:space_invader: CUSTOMIZACIÓN DE PLANTILLA :space_invader:
+:space_invader: CUSTOMIZACIÓN DE PLANTILLA :space_invader: GABRIEL MEDINA
 
  EDITANDO:
 :ok_hand:-Paleta de Color, 
