@@ -1,7 +1,6 @@
+:space_invader: CUSTOMIZACIÓN DE PLANTILLA
 
-Customizacion de plantilla para vender a una empresa.
  EDITANDO:
-
 -Paleta de Color, 
 -iconos , 
 .logos, 
