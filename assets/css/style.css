@@ -538,22 +538,8 @@ section {
   border-radius: 8px;
   z-index: 1;
 }
-.services .icon-box::before {
-  content: "";
-  position: absolute;
-  background: white;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  top: 100%;
-  transition: all 0.3s;
-  z-index: -1;
-}
-.services .icon-box:hover::before {
-  background: #67b0d1;
-  top: 0;
-  border-radius: 0px;
-}
+
+
 .services .icon {
   margin-bottom: 15px;
 }
@@ -576,12 +562,7 @@ section {
   line-height: 28px;
   margin-bottom: 0;
 }
-.services .icon-box:hover .title a, .services .icon-box:hover .description {
-  color: #fff;
-}
-.services .icon-box:hover .icon i {
-  color: #fff;
-}
+
 
 /*--------------------------------------------------------------
 # Counts
@@ -660,6 +641,10 @@ section {
 }
 .cta .cta-btn:hover {
   border-color: #fff;
+}
+.video-spot{
+display: flex;
+justify-content: center;
 }
 
 /*--------------------------------------------------------------
@@ -999,6 +984,12 @@ section {
   100% {
     transform: rotate(360deg);
   }
+}
+
+.imagen-fumig{
+  filter: drop-shadow(
+    8px 8px 4px rgb(94, 205, 212)
+  );
 }
 
 /*--------------------------------------------------------------
